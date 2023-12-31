@@ -49,6 +49,8 @@ print(x)
 
 ## Output:
 ![lu decomposition]()
+
+
 (i)
 ![image](https://github.com/mugil25/LU-Decomposition/assets/148515771/6386a098-70d6-4b35-8703-1ec6f8bd465c)
 
